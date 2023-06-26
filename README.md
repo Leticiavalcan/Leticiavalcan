@@ -1,6 +1,6 @@
 👋 Hi, I’m @Leticiavalcan e seja bem vindo(a) ao meu Github! 😊
 
-🚀 Desenvolvedora Front-end junior
+🚀Analista de dados junior
 
 👩🏼‍💻 Estudante de engenharia de softaware.
 
