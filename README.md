@@ -1,8 +1,8 @@
 👋 Hi, I’m @Leticiavalcan e seja bem vindo(a) ao meu Github! 😊
 
-🚀Analista de dados junior
+🚀Engenheira de dados jr
 
-👩🏼‍💻 Estudante de engenharia de softaware.
+
 
 
 <!---
