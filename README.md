@@ -11,9 +11,9 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leticia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leticia-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Leticia-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/Sql-plain.svg">
   <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leticia-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Leticia-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/Powerbi-original.svg">
   <img align="center" alt="Leticia-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
